@@ -1,0 +1,29 @@
+main{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .5s ease-in-out;
+}
+
+.page{
+  transition: .5s ease-in-out;
+}
+
+.icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page{
+  border-radius: 20px;
+}
+
+.btn{
+  transition: .5s ease-in-out;
+}
+
+.btn:hover{
+  opacity: .7;
+}
